@@ -1,0 +1,3 @@
+Problem Statement:
+
+Build a CNN model for a multiclass classification problem (having an image dataset). Your task includes preprocessing the dataset, constructing a suitable CNN architecture, training the model, and optimizing its hyperparameters. Perform a comprehensive evaluation of the model's performance, including visualizing the learning process and presenting key insights from the classification results. The total number of learnable parameters must not exceed 2.5 million parameters.
